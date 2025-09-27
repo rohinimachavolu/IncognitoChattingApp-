@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2024-12-08 14.09.19 - A sleek and minimalistic incognito mode icon featuring a stylized silhouette of a person wearing a fedora hat and glasses. The icon has a dark theme w.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
